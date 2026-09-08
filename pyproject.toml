@@ -31,7 +31,7 @@ dependencies = [
 Homepage = "https://platform.qubrid.com"
 Documentation = "https://github.com/QubridAI-Inc/docs"
 Repository = "https://github.com/QubridAI-Inc/qubrid-examples"
-Changelog = "CHANGELOG.md"
+Changelog = "https://github.com/Abhi-shek26/python-sdk-buildup/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = [
